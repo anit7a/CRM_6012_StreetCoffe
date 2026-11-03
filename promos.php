@@ -59,6 +59,4 @@ require 'includes/header.php';
         </table>
     </div>
 </div>
-<div class="note-panel mt-3">Saran tindak lanjut: admin dapat mempertimbangkan voucher kunjungan kembali, promo menu
-    favorit, atau penawaran khusus komunitas. Pengiriman promo dilakukan di luar aplikasi ini.</div>
 <?php require 'includes/footer.php'; ?>
