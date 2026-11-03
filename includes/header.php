@@ -22,7 +22,7 @@ require_once __DIR__ . '/functions.php';
     <div class="nav-label">ANALISIS PELANGGAN</div>
     <a class="nav-link-custom <?= active_page('segmentation.php') ?>" href="segmentation.php"><span>◉</span> Segmentasi</a>
     <a class="nav-link-custom <?= active_page('reports.php') ?>" href="reports.php"><span>▥</span> Laporan</a>
-    <a class="nav-link-custom <?= active_page('promos.php') ?>" href="promos.php"><span>◇</span> Promo Pelanggan Pasif</a>
+    <a class="nav-link-custom <?= active_page('promosi.php') ?>" href="promosi.php"><span>◇</span> Promo Pelanggan Pasif</a>
     <div class="sidebar-bottom"><div class="admin-chip"><div class="avatar">A</div><div><b><?= e($_SESSION['user_name'] ?? 'Admin') ?></b><small>Administrator</small></div></div><a href="logout.php" class="logout-link">↪ Keluar</a></div>
   </aside>
   <main class="main-content">
