@@ -25,4 +25,3 @@ Aplikasi CRM berbasis PHP Native + MySQL untuk berjalan di XAMPP. Frontend mengg
 - Data menu disimpan sebagai nama menu dan jumlah pembelian pada transaksi. Total pembayaran dimasukkan admin.
 - Promo pelanggan pasif adalah daftar identifikasi untuk tindak lanjut admin; pengiriman promo tidak dilakukan otomatis.
 - Penghapusan pelanggan tidak menghapus histori transaksi/keluhan; relasinya menjadi NULL agar catatan historis tetap ada.
-- Untuk produksi, gunakan HTTPS, ubah password admin, batasi akses server, dan siapkan backup database.
